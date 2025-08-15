@@ -1,0 +1,5 @@
+{
+  "name": "Video Prompt Spark",
+  "description": "An AI-powered assistant that takes your raw video ideas and transforms them into detailed, creative, and structured prompts ready for text-to-video generation models.",
+  "requestFramePermissions": []
+}
